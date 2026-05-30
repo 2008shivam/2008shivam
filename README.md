@@ -1,135 +1,161 @@
 <div align="center">
 
-# Shivam Jha
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Shivam+Jha;Senior+Security+Engineer;Penetration+Tester;Cloud+Security+Researcher;AI+%2F+LLM+Red+Teaming" />
 
-### Senior Security Engineer | Penetration Tester | Cloud Security | AI Security
+<br>
 
-<p>
 <a href="https://linkedin.com/in/shivam-jha-security-engineer">
-<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:jhashivam2008@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://jhashivam2008.medium.com/">
-<img src="https://img.shields.io/badge/Medium-Security_Blog-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Medium-Security_Blogs-12100E?style=for-the-badge&logo=medium"/>
 </a>
-</p>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+
+</div>
 
 ---
 
-## About Me
+# ⚡ Security Profile
 
-Security professional specializing in penetration testing, adversary simulation, cloud security assessments, and application security across fintech, healthcare, SaaS, and enterprise environments.
+```yaml
+Name: Shivam Jha
+Role: Senior Security Engineer
+Experience: 2+ Years
+Certifications:
+  - eCPPT
+  - eJPT
+  - OSCP (In Progress)
 
-Currently focused on:
-
-* Advanced Penetration Testing
-* Active Directory Security Assessments
-* AWS & Azure Security Reviews
-* AI / LLM Red Teaming
-* Security Automation & Research
+Specializations:
+  - Web Application Security
+  - API Security Testing
+  - Mobile Security
+  - Active Directory Security
+  - Cloud Security (AWS/Azure)
+  - AI / LLM Red Teaming
+```
 
 ---
 
-## Certifications
+# 🎯 Attack Surface Coverage
+
+Web Applications      ████████████████████ 95%
+
+API Security          ████████████████████ 95%
+
+Cloud Security        ██████████████████░░ 88%
+
+Active Directory      █████████████████░░░ 85%
+
+Mobile Security       █████████████████░░░ 85%
+
+AI Security           ████████████████░░░░ 80%
+
+DevSecOps             ████████████████░░░░ 80%
+
+---
+
+# 🛡️ Certifications
 
 <table>
 <tr>
+
 <td align="center">
-<img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="90"><br>
+<a href="https://certs.ine.com/4c0c57fe-79ff-4675-b9b9-ffee77a3eebd">
+<img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc3wze0lx3007irps13e6k3" width="120"/>
+</a>
+<br>
 <b>eCPPT</b>
 </td>
 
 <td align="center">
-<img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="90"><br>
+<a href="https://certs.ine.com/26d3e60c-e8bd-488c-a0e5-b04368b22294">
+<img src="https://us-east-1.graphassets.com/AwCYQkwjSUCbfkm08Ct1Mz/cmcc5xv63nfpn07irxufr2b8z" width="120"/>
+</a>
+<br>
 <b>eJPT</b>
 </td>
 
 <td align="center">
-<img src="https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/OSCP-In_Progress-red?style=for-the-badge"/>
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Core Competencies
-
-| Domain                     | Proficiency      |
-| -------------------------- | ---------------- |
-| Web Application Security   | ████████████ 95% |
-| API Security Testing       | ████████████ 95% |
-| Mobile Security            | ██████████░░ 85% |
-| Active Directory Security  | ██████████░░ 85% |
-| Cloud Security (AWS/Azure) | ██████████░░ 85% |
-| AI / LLM Security          | █████████░░░ 80% |
-| Security Automation        | ███████████░ 90% |
-| Threat Modeling            | █████████░░░ 80% |
-
----
-
-## Security Arsenal
+# ⚔️ Arsenal
 
 ### Offensive Security
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-0277BD?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=for-the-badge)
-![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-0277BD?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=flat-square)
 
-### Cloud & DevSecOps
+### Cloud Security
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes)
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes)
 
 ---
 
-## Featured Projects
+# 🚀 Featured Research
 
-### AI Red Teaming Framework
+🔹 AI Red Teaming Framework
 
-Automated testing framework for prompt injection, jailbreak detection, data leakage and model abuse testing.
+🔹 LLM Prompt Injection Assessment Toolkit
 
-### AI-Powered Vulnerability Assessment Pipeline
+🔹 AI-Powered Vulnerability Assessment Pipeline
 
-OpenVAS integrated with intelligent risk prioritization and vulnerability aggregation.
+🔹 Security Hardening Automation Platform
 
-### Security Hardening & Audit Automation
+🔹 Cloud Security Review Toolkit
 
-Automated CIS benchmark auditing for Windows and Linux environments.
-
-### Cloud Security Review Toolkit
-
-Assessment scripts for AWS IAM, S3, ECS, VPC, Security Groups and Azure security posture reviews.
+🔹 Security Research & Writeups
 
 ---
 
-## Current Focus
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🧠 Current Focus
 
 ```text
-[███████████████░░░░] OSCP Preparation
-[████████████████░░░] Advanced Active Directory Attacks
-[███████████████░░░░] Cloud Security Research
-[█████████████████░░] AI Security & LLM Red Teaming
+████████████████░░░░  OSCP Preparation
+
+█████████████████░░░ AI Security Research
+
+████████████████░░░░ Cloud Security Assessments
+
+█████████████████░░░ Active Directory Operations
+
+██████████████████░░ Security Automation
 ```
 
 ---
 
-## Security Philosophy
-
-"Security is not about finding vulnerabilities.
-It is about understanding how systems fail before attackers do."
-
-</div>
+> "Offensive security is not about breaking systems.
+> It is about understanding how attackers think before they do."
