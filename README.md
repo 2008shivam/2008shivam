@@ -73,11 +73,11 @@ AI / LLM Security            ████████████████░
 
 <div align="center">
 
-<a href="https://certs.ine.com/4c0c57fe-79ff-4675-b9b9-ffee77a3eebd">
+<a href="https://certs.ine.com/26d3e60c-e8bd-488c-a0e5-b04368b22294">
 <img src="https://img.shields.io/badge/eCPPT-Certified-red?style=for-the-badge"/>
 </a>
 
-<a href="https://certs.ine.com/26d3e60c-e8bd-488c-a0e5-b04368b22294">
+<a href="https://certs.ine.com/4c0c57fe-79ff-4675-b9b9-ffee77a3eebd">
 <img src="https://img.shields.io/badge/eJPT-Certified-blue?style=for-the-badge"/>
 </a>
 
@@ -133,11 +133,15 @@ AI / LLM Security            ████████████████░
 
 # 📈 GitHub Analytics
 
+# 📈 GitHub Analytics
+
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=2008shivam&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=2008shivam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2008shivam&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2008shivam&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
