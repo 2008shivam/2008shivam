@@ -1,22 +1,48 @@
-<h1>Hi 👋, I'm  Shivam Jha</h1>
-<p>Senior Security Engineer | Penetration Tester | Offensive Security Enthusiast</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/shivam-jha-security-engineer/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/2008_shivam_jha" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefinedhashivam2008.medium.com" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=2008shivam&show_icons=true&locale=en" alt="2008shivam" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2008shivam&" alt="2008shivam" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=2008shivam&show_icons=true&locale=en&layout=compact" alt="2008shivam" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2008shivam" alt="2008shivam" /></a></p>
+# Shivam Jha
+
+Senior Security Engineer with experience in penetration testing, application security, cloud security assessments, and adversary simulation engagements across fintech, healthcare, SaaS, and e-commerce environments.
+
+## Areas of Expertise
+
+- Web Application Security
+- API Security Testing
+- Mobile Application Security (Android & iOS)
+- Cloud Security (AWS & Azure)
+- Active Directory Security Assessments
+- Adversary Simulation
+- AI / LLM Security Testing
+- Secure Architecture Reviews
+
+## Certifications
+
+- eCPPT (Certified Professional Penetration Tester)
+- eJPT (Junior Penetration Tester)
+- OSCP (In Progress)
+
+## Technical Stack
+
+### Security
+Burp Suite Pro, Metasploit, Nmap, Nessus, OpenVAS, BloodHound, SharpHound, CrackMapExec, Responder, MobSF, Frida, SQLMap, Wireshark
+
+### Cloud & DevSecOps
+AWS, Azure AD, Docker, Kubernetes Security, CI/CD Security, Terraform Security
+
+### Languages
+Python, Bash, PowerShell, SQL
+
+## Featured Work
+
+- AI Red Teaming Framework
+- AI-Powered Vulnerability Assessment Pipeline
+- Security Hardening & Audit Automation
+- Cloud Security Assessment Utilities
+- Mobile Security Testing Toolkit
+
+## Professional Interests
+
+Offensive Security • Cloud Security • Active Directory Security • AI Security • Security Automation
+
+## Connect
+
+LinkedIn: linkedin.com/in/shivam-jha-security-engineer
+Email: jhashivam2008@gmail.com
